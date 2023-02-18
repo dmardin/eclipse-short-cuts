@@ -48,3 +48,4 @@ Common Shortcuts for Eclipse
 - Find usage in Workspace `Ctrl + Shift + G`
 - To Lower Case `Ctrl + Shift + Y`
 - To Upper Case `Ctrl + Shift + X`
+- Open Terminal `Ctrl + Alt + T`
