@@ -9,6 +9,7 @@ Common Shortcuts for Eclipse
 - Run `Ctrl + F11`
 - Debug `F11`
 - Coverage Run `Ctrl + Shift + F11`
+- Build `Ctrl + B`
 
 ## Breakpoints
 - Set/Remove Breakpoints `Ctrl + Shift + B`
