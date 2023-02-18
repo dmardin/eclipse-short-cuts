@@ -1,5 +1,5 @@
-# eclipse-short-cuts
-Common shortcuts for Eclipse
+# Eclipse Shortcuts
+Common Shortcuts for Eclipse
 
 ## General
 - Key Bindings `Ctrl + Shift + L`
