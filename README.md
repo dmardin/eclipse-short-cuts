@@ -54,3 +54,22 @@ Common Shortcuts for Eclipse
 - Multi Edit Line `Alt + Shift + A` -> `Ctrl +3` -> `multi`
 - Last Edit `Ctrl + Q`
 - Quick Search `Ctrl + Shift + Alt + L`
+
+---
+
+# Firefox Shortcuts
+Common Shortcuts for Firefox
+- Navigate Forward or Backwards `Alt + →` or `Alt + ←`
+- Search Link `'`
+- Next or Previous Link  `Ctrl + G` or `Ctrl + Shift + G`
+- Open in new Tab `Ctrl + Shift + Enter`
+- Open in private Windows `Ctrl + Shift + P`
+- Open new Windwos `Ctrl + N`
+- Open History `Ctrl + H`
+- Go to Search Bar `/`
+- Go to Bottom or Up `Ctrl + ↓` or `Ctrl + ↑`
+- Go to Tab 1...8 `Alt + 1...8`
+- Got to last Tab `Alt + 9`
+- Cycle Tab `Ctrl + Tab` or `Ctrl + Shift + Tab`
+- Zoom in or out `Ctrl + +` or `Ctrl + -`
+- Reset Zoom `Ctrl + 0`
