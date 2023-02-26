@@ -49,3 +49,8 @@ Common Shortcuts for Eclipse
 - To Lower Case `Ctrl + Shift + Y`
 - To Upper Case `Ctrl + Shift + X`
 - Open Terminal `Ctrl + Alt + T`
+- Outline `Ctrl + O`
+- Duplicate Line `Ctrl + ↑` or `Ctrl + ↓`
+- Multi Edit Line `Alt + Shift + A` -> `Ctrl +3` -> `multi`
+- Last Edit `Ctrl + Q`
+- Quick Search `Ctrl + Shift + Alt + L`
