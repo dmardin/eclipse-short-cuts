@@ -55,6 +55,21 @@ Common Shortcuts for Eclipse
 - Last Edit `Ctrl + Q`
 - Quick Search `Ctrl + Shift + Alt + L`
 
+## Additional Stuff
+- Template features `Ctrl +3`  -> `Content Assistent Java` -> `Advanced` -> `Java Postfix` & `Template Proposal`
+- Template `Ctrl +3`  -> `Content Assistent Java` -> `Templates`
+- Clean up `Source` -> `Clean Up...`
+- Customize Clean up -> `Windows` -> `Preferences` -> `Edit...`
+
+## Breakpoints configs
+- Tracepoint
+- Hitcount
+- classload
+- conditional Breakpoints
+- Triggerpoints
+- Toggle Lamda entry Breakpoints
+- suspend Thread vs suspend VM
+
 ---
 
 # Firefox Shortcuts
